@@ -1,1 +1,1 @@
-# Hello, I'm Blaze
+# Hi, I'm Blaze
