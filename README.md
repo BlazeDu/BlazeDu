@@ -1,11 +1,13 @@
 <h1 align="center" dir="auto">👋 Hi, I’m Blaze</h1>
 
 <p align="center">
+
 - 😎 Interested in contributing expertise in web, unity and blockchain development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
 - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+
 </p>
 
 <h3 align="left">Support:</h3>
