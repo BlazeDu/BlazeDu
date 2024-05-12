@@ -8,8 +8,6 @@
 - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
 </p>
 
-<p align="left"> <a href="https://github.com/SManOlaf38"><img src="https://github-profile-trophy.vercel.app/?username=BlazeDu" alt="Blaze" /></a> </p>
-
 <h3 align="left">Support:</h3>
 <br>
 
