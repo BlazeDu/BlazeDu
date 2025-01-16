@@ -6,7 +6,7 @@
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
 
 </p>
 
@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlazeDu&show_icons=true&locale=en&layout=compact" alt="Blaze" /></p> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlazeDu&show_icons=true&locale=en" alt="BlazeDu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeDu&" alt="Blaze" /></p>
