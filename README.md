@@ -1,8 +1,8 @@
 <div align="center">
-
+# Hi+%F0%9F%91%8B+I'm+Blaze+
 <!-- 打字动画 -->
 <a href="https://github.com/BlazeDu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Blaze+;Full-stack+Tool+Builder;Web+%7C+Android+%7C+macOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=;Full-stack+Tool+Builder;Web+%7C+Android+%7C+macOS" alt="Typing SVG" />
 </a>
 
 <!-- 身份徽章 -->
